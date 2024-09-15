@@ -225,7 +225,7 @@ plt.tight_layout()
 # Display the plot
 plt.show()
 ```
-![Distribution of Individuals Across Regions](Images/Dist_Across_Region.png)
+
 ## Conclusion
 
 The project involved several key steps to process and analyze genetic data:
